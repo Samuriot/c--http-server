@@ -1,8 +1,0 @@
-This is just a sample text file.
-
-The contents DO NOT matter in this case. 
-
-Please focus on the permissions part.
-
-
-
